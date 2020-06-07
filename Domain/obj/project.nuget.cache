@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "99O9bvSNZZGoRsii5IEj1poatSulcVZQK8GOajzKwFMGug+l88m1lTMijl+URbxjwmOs4KWin0ZUgsK1BUdR+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BlueF\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BlueF\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
