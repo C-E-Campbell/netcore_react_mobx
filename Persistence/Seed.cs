@@ -15,6 +15,7 @@ namespace Persistence
 
 
                 var activites = new List<Activity>{
+
                     new Activity
 {
     Title = "Past Activity 1",
@@ -106,7 +107,11 @@ new Activity
     Venue = "Cinema",
 }
 
-                }
+                };
+
+
+                context.Activities.AddRange(activites);
+                context.SaveChanges();
             };
         }
     }
